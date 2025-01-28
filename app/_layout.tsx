@@ -5,8 +5,6 @@ import { useFonts } from 'expo-font';
 
 
 
-
-
 const RootLayout = () => {
 
     const [loaded, error] = useFonts({
